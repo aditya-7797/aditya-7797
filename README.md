@@ -10,17 +10,14 @@
 A passionate and innovative developer with a diverse skill set spanning web development, app development, and advanced machine learning projects. I am always eager to learn new technologies and work on impactful solutions.  
 
 - 🎓 **AI & DS Student at VIT, Pune** (Graduating in 2026)
-- 💻 **MERN Stack & Android Developer**
+- 💻 **MERN stack developr and ML Enthusiast **
 - 🏢 **Building AI-driven Smart Interior Design Platform (InteriorX)**
-- 🎮 **Love solving complex problems using ML & AI**
 
 ---
 
 ## 🔗 Connect with Me:
 [![Instagram](https://img.shields.io/badge/Instagram-FB3958?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/_aditya_7797)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/aditya-shinde-b14216231/)  
-[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/adityavpawar)  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/858564855077142559)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/aditya-7797)  
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:adityashinde7987@gmail.com)  
 
@@ -39,11 +36,12 @@ A passionate and innovative developer with a diverse skill set spanning web deve
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)](https://reactjs.org/)  
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)](https://nodejs.org/)  
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)](https://www.mongodb.com/)  
 
 ### 📄 Database:
 [![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)](https://www.mysql.com/)  
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)](https://firebase.google.com/)  
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)](https://www.mongodb.com/)  
+
 
 ### 🛠 Tools:
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)](https://code.visualstudio.com/)  
