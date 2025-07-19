@@ -58,7 +58,7 @@ A MERN stack-based interior design platform featuring:
 - 🎨 3D AR Visualization (In Progress)  
 - 🌐 Cloud Integration for Scalability  
 
-[![GitHub](https://img.shields.io/badge/GitHub-InteriorX-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/adityavaibhavpawar/InteriorX)  
+[![GitHub](https://img.shields.io/badge/GitHub-InteriorX-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/aditya-7797/InteriorX)  
 
 ### SkySprout - High Rainfall Prediction Platform
 - Built using Machine Learning models on IMD datasets
@@ -66,14 +66,14 @@ A MERN stack-based interior design platform featuring:
 - 🔄 Achieved outstanding accuracy with Deep Learning models
 - 🌐 Deployed using Flask for real-time predictions
 
-[![GitHub](https://img.shields.io/badge/GitHub-SkySprout-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/adityavaibhavpawar/SkySprout)  
+[![GitHub](https://img.shields.io/badge/GitHub-SkySprout-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/aditya-7797/Rainfall_Prediction_Using_Machine_Learning)  
 
 ### SATVIK - Android App
 - 🏢 Location-based food partner listing
 - 🤖 Integrated Chatbot for user interactions
 - 💾 Firebase backend for seamless data management
 
-[![GitHub](https://img.shields.io/badge/GitHub-SATVIK-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/adityavaibhavpawar/SATVIK)  
+[![GitHub](https://img.shields.io/badge/GitHub-SATVIK-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/aditya-7797/SATVIK-Android_App)  
 
 ---
 
